@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Maulana Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 2,
+      "nama": "Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 22,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 3,
+      "nama": "Awis",
+      "alamat": "Jl.utama",
+      "umur": 17,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 4,
+      "nama": "Maulana",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 5,
+      "nama": "Maulana Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 6,
+      "nama": "Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 22,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 7,
+      "nama": "Awis",
+      "alamat": "Jl.utama",
+      "umur": 17,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 8,
+      "nama": "Maulana",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 9,
+      "nama": "Maulana Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 10,
+      "nama": "Sarowis",
+      "alamat": "Jl.utama",
+      "umur": 22,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 11,
+      "nama": "Awis",
+      "alamat": "Jl.utama",
+      "umur": 17,
+      "nohp": "08224110206"
+    },
+    {
+      "id": 12,
+      "nama": "Maulana",
+      "alamat": "Jl.utama",
+      "umur": 24,
+      "nohp": "08224110206"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
